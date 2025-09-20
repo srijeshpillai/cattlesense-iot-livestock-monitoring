@@ -3,6 +3,7 @@
 This repository contains the hardware schematics and Arduino source code for the "CattleSense" project, a multisensory IoT system designed for comprehensive livestock monitoring.
 
 **Authors:** Srijesh Pillai, Dr. M. I. Jawid Nazir
+**Paper Link:** https://doi.org/10.1109/ASET60340.2024.10708764
 
 ---
 

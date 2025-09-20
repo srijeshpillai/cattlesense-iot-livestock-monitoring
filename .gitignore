@@ -1,0 +1,9 @@
+# Arduino build files
+*.elf
+*.eep
+*.hex
+build/
+
+# Python
+__pycache__/
+*.pyc
